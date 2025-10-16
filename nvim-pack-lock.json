@@ -1,0 +1,17 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "327fff9",
+      "src": "https://github.com/Saghen/blink.cmp.git",
+      "version": "'v1.7.0'"
+    },
+    "lualine.nvim": [],
+    "nvim": [],
+    "nvim-lspconfig": [],
+    "nvim-web-devicons": [],
+    "oil.nvim": [],
+    "plenary.nvim": [],
+    "typescript-tools.nvim": [],
+    "which-key.nvim": []
+  }
+}
