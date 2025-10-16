@@ -5,6 +5,7 @@ vim.o.number = true
 vim.o.relativenumber = true
 vim.o.scrolloff = 10
 
+require("loadpackages")
 require("clipboard")
 require("theme")
 require("statusline")
@@ -13,4 +14,3 @@ require("diags")
 require("easeofuse")
 require("fileexplorer")
 require("completion")
-require("proglangs")
