@@ -7,11 +7,15 @@
     },
     "lualine.nvim": [],
     "nvim": [],
-    "nvim-lspconfig": [],
+    "nvim-lspconfig": {
+      "rev": "513fc3e"
+    },
     "nvim-web-devicons": [],
     "oil.nvim": [],
     "plenary.nvim": [],
     "typescript-tools.nvim": [],
-    "which-key.nvim": []
+    "which-key.nvim": {
+      "rev": "3aab214"
+    }
   }
 }
