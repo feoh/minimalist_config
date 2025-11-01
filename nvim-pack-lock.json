@@ -6,9 +6,11 @@
       "version": "'v1.7.0'"
     },
     "lualine.nvim": [],
-    "nvim": [],
+    "nvim": {
+      "rev": "234fc04"
+    },
     "nvim-lspconfig": {
-      "rev": "513fc3e"
+      "rev": "a89bfcf"
     },
     "nvim-web-devicons": [],
     "oil.nvim": [],
