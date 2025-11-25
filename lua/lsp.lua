@@ -15,3 +15,7 @@ vim.lsp.enable({'lua_ls',
 vim.pack.add({'https://github.com/folke/lazydev.nvim.git'})
 require("lazydev").setup()
 
+-- Keybindings
+vim.keymap.set('n', 'Gd', vim.lsp.buf.definition, { desc = 'Goto Definition' })
+vim.keymap.set('n', 'Gr', vim.lsp.buf.references, { desc = 'Goto References' })
+
