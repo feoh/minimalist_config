@@ -2,5 +2,5 @@
 -- set wrap
 -- set linebreak
 vim.o.textwidth=120
-vim.o.wrap
+vim.o.wrap=true
 
